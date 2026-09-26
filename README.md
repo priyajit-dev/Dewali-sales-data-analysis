@@ -55,7 +55,7 @@ The dataset (`Diwali Sales Data.csv`) contains customer transaction records with
 ```
 3. Open the notebook
 ```bash
-   jupyter notebook data_anysis.ipynb
+   jupyter notebook dewali_sales_data_analysis.ipynb
 ```
 
 ## 👤 Author
